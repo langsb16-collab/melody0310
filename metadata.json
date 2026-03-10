@@ -1,0 +1,8 @@
+{
+  "name": " 자동 작곡·작사 0303",
+  "description": "AI-powered music and lyrics generation platform supporting voice, text, and image inputs with real-time multilingual chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
